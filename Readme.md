@@ -1,6 +1,6 @@
 ### Responsive website using Html, Css and JavaScript.
 
-![REsponsive_site](https://github.com/aritrochakraborty29/www.predulive.org/blob/master/img/collage.jpg)
+![REsponsive_site](https://github.com/aritrochakraborty29/www.predulive.org/blob/master/img/Capture.PNG)
 
 
 ## DEMO:- https://aritrochakraborty29.github.io/www.predulive.org/
