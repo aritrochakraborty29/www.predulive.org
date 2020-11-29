@@ -1,6 +1,6 @@
 ### Responsive website using Html, Css and JavaScript.
 
-## DEMO:- https://aritrochakraborty29.github.io/www.predulive.org/
+## ![DEMO](https://predulive-org.netlify.app/)
 
 
 🙏 If you find this repo helpful then don't forget to give a start ❇️  to this repository. :)
